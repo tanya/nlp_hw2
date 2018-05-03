@@ -1,0 +1,388 @@
+<xml>
+<body>
+<entry>
+	<author> Gmytrasiewicz, P. J., Durfee, E. H., &amp; Wehe, D. K. </author>
+	<date> (1991b). </date>
+	<title> The utility of communication in coordinating intelligent agents. </title>
+	<booktitle> In Proceedings of the Ninth National Conference on Artificial Intelligence, </booktitle>
+	<pages> pp. 166-172. </pages>
+</entry>
+<entry>
+	<author> A. Louri and H. Sung. </author>
+	<title> &quot;A Compiler Directed Cache Coherence Scheme With Fast and Parallel Explicit Invalidation.&quot; </title>
+	<booktitle> In Proc. of the 1992 International Conference on Parallel Processing, </booktitle>
+	<pages> pages 2-9, </pages>
+	<date> Aug 1992. </date>
+</entry>
+<entry>
+	<author> Azer Bestavros and Carlos Cunha. </author>
+	<title> Server-initiated document dissemination for the www. </title>
+	<journal> IEEE Data Engineering Bulletin, </journal>
+	<date> September 1996. </date>
+	<pages> Page 15 </pages>
+</entry>
+<entry>
+	<author> J. P. Callan, </author>
+	<title> &quot;Document Filtering With Inference Networks,&quot; </title>
+	<booktitle> Proceedings of SIGIR, </booktitle>
+	<pages> 262-269, </pages>
+	<date> 1996. </date>
+</entry>
+<entry>
+	<author> A. L. Yuille. </author>
+	<title> Deformable templates for face recognition. </title>
+	<journal> Journal of Cognitive Neuroscience, </journal>
+	<volume> 3(1) </volume>
+	<pages> 59-70, </pages>
+	<date> 1991. </date>
+</entry>
+<entry>
+	<author> A. Romanow and S. Floyd. </author>
+	<title> The Dynamics of TCP Traffic over ATM Networks. </title>
+	<journal> IEEE Journal on Selected Areas in Communication, </journal>
+	<volume> 13(4), </volume>
+	<date> May 1995. </date>
+</entry>
+<entry>
+	<author> Kibler, D., and David W. Aha, </author>
+	<date> (1987). </date>
+	<title> Learning representative exemplars of concepts: An initial case study. </title>
+	<booktitle> Proceedings of the Fourth International Workshop on Machine Learning. </booktitle>
+	<location> Irvine, CA: </location>
+	<publisher> Morgan Kaufmann, </publisher>
+	<pages> pp. 24-30. </pages>
+</entry>
+<entry>
+	<author> Aumann, R., &amp; Maschler, M. </author>
+	<date> (1995). </date>
+	<title> Repeated Games with Incomplete Information. </title>
+	<publisher> The MIT Press. </publisher>
+</entry>
+<entry>
+	<author> S. M. Robinson. </author>
+	<title> Some continuity properties of polyhedral multifunctions. </title>
+	<journal> Mathematical Programming Study, </journal>
+	<volume> 14 </volume>
+	<pages> 206-214, </pages>
+	<date> 1981. </date>
+</entry>
+<entry>
+	<author> Howard Turtle and W. Bruce Croft. </author>
+	<title> Inference networks for document retrieval. </title>
+	<editor> In Jean-Luc Vidick, editor, </editor>
+	<booktitle> Proceedings of the 13th Annual International ACM-SIGIR Conference on Research and Development in Information Retrieval, </booktitle>
+	<pages> pages 1-24, </pages>
+	<location> Brussels, Belgium, </location>
+	<date> September 1990. </date>
+</entry>
+<entry>
+	<author> Michalski, Ryszard S., Robert E. Stepp, and Edwin Diday, </author>
+	<date> (1981). </date>
+	<title> A Recent Advance in Data Analysis: Clustering Objects into Classes Characterized by Conjunctive Concepts. </title>
+	<booktitle> Progress in Pattern Recognition, </booktitle>
+	<volume> Vol. 1, </volume>
+	<editor> Laveen N. Kanal and Azriel Rosenfeld (Eds.). </editor>
+	<location> New York: </location>
+	<publisher> North-Holland, </publisher>
+	<pages> pp. 33-56. </pages>
+</entry>
+<entry>
+	<author> Foley, J. D., van Dam, A., Feiner, S. K., Hughes, J. F., </author>
+	<title> Computer Graphics: Principles and Practice, </title>
+	<pages> pp. 992-996, </pages>
+	<publisher> Addison-Wesley, </publisher>
+	<location> Massachusetts </location>
+	<date> 1990. </date>
+</entry>
+<entry>
+	<author> M. Herlihy and J. Wing, </author>
+	<title> &quot;Axioms for Concurrent Objects&quot;, </title>
+	<booktitle> Proceedings of the 14th ACM Symposium on Principles of Programming Languages, </booktitle>
+	<pages> pp. 13-26, </pages>
+	<date> 1987. </date>
+</entry>
+<entry>
+	<author> J. J Koenderink and A. J. van Doorn. </author>
+	<title> Representation of local geometry in the visual system. </title>
+	<journal> Biological Cybernetics, </journal>
+	<volume> 55 </volume>
+	<pages> 367-375, </pages>
+	<date> 1987. </date>
+</entry>
+<entry>
+	<author> W. W. Carlson and J. M. Draper. </author>
+	<title> AC for the T3D. </title>
+	<tech> Technical Report SRC-TR-95-141, </tech>
+	<institution> Supercomputing Research Center, </institution>
+	<location> Bowie, MD, </location>
+	<date> February 1995. </date>
+</entry>
+<entry>
+	<author> William G. Cochran. </author>
+	<title> Sampling Techniques. </title>
+	<publisher> John Wiley and Sons, Inc., </publisher>
+	<location> New York, New York, 3 edition, </location>
+	<date> 1977. </date>
+</entry>
+<entry>
+	<author> W. Enkelmann, </author>
+	<title> &quot;Obstacle detection by evaluation of optical flow fields from image sequence,&quot; </title>
+	<journal> Image and Vision Computing 9, </journal>
+	<pages> pp. 160-168, </pages>
+	<date> 1991. </date>
+</entry>
+<entry>
+	<author> Schaffer, C. </author>
+	<date> (1992). </date>
+	<title> Sparse data and the effect of overfitting avoidance in decision tree induction. </title>
+	<booktitle> In AAAI-92 Proceedings of the Tenth National Conference on Artificial Intelligence, </booktitle>
+	<pages> pp. 147-152 </pages>
+	<location> San Jose, CA. </location>
+	<publisher> AAAI Press. </publisher>
+</entry>
+<entry>
+	<author> M. Reiman, and B. Simon. </author>
+	<title> An Interpolation Approximation for Queueing Systems with Poisson Input. </title>
+	<journal> Operations Research </journal>
+	<volume> 36, 3 </volume>
+	<date> (1988), </date>
+	<pages> 454-469. </pages>
+</entry>
+<entry>
+	<author> Verlinden, J., Bolter, J. D., &amp; van der Mast, C. </author>
+	<title> Voice Annotation in Virtual Environments, </title>
+	<note> paper submitted to ESS '93. </note>
+</entry>
+<entry>
+	<author> David R. Cheriton, Hendrik A. Goosen, and Philip Machanick. </author>
+	<title> Restructuring a Parallel Simulation to Improve Cache Behavior in a Shared-Memory Multiprocessor: A First Experience. </title>
+	<booktitle> In International Symposium on Shared Memory Multiprocessing, </booktitle>
+	<pages> pages 109-118, </pages>
+	<date> April 1991. </date>
+</entry>
+<entry>
+	<author> J. Wiener, H. Gupta, W. Labio, Y. Zhuge, H. Garcia-Molina, and J. Widom. </author>
+	<title> A system prototype for warehouse view maintenance. </title>
+	<booktitle> In The Workshop on Materialized Views, </booktitle>
+	<pages> pages 26-33, </pages>
+	<date> June 1996. </date>
+</entry>
+<entry>
+	<author> Korf, R. </author>
+	<date> (1985). </date>
+	<title> Macro-operators: a weak method for learning. </title>
+	<journal> Artificial Intelligence, </journal>
+	<volume> 26, </volume>
+	<pages> 35-77. </pages>
+</entry>
+<entry>
+	<author> Arun Garg. </author>
+	<title> Parallel STREAMS: A multi-processor implementation. </title>
+	<booktitle> In Proceedings of the Winter 1990 USENIX Conference, </booktitle>
+	<pages> pages 163-176, </pages>
+	<location> Washington, D. C., </location>
+	<date> January 1990. </date>
+</entry>
+<entry>
+	<author> T. Carpenter, K. Driscoll, K. Hoyme, and J. Carciofini. </author>
+	<title> ARINC659 acheduling: Problem definition. </title>
+	<booktitle> In Proceedings of the Real Time Systems Symposium, </booktitle>
+	<pages> pages 165-169, </pages>
+	<date> December 1994. </date>
+</entry>
+<entry>
+	<author> Strang, G. and G. Fix, </author>
+	<title> A Fourier analysis of the finite element variational method, Constructive Aspects of Functional Analysis </title>
+	<editor> (G. Geymonat, ed.), </editor>
+	<journal> C. I. M. E., </journal>
+	<date> 1973, </date>
+	<pages> pp. 793-840. </pages>
+</entry>
+<entry>
+	<author> P. Perez and F. Heitz, </author>
+	<title> &quot;Multiscale Markov Random Fields and Constrained Relaxation in Low Level Image Analysis,&quot; </title>
+	<booktitle> IEEE International Conf. on Acoustics, Speech, and Signal Processing, </booktitle>
+	<volume> Vol. 3, </volume>
+	<pages> pp. 61-64, </pages>
+	<date> 1992. </date>
+</entry>
+<entry>
+	<author> Hauptman, H., &amp; Karle, J. </author>
+	<date> (1953). </date>
+	<title> Solution of the Phase Problem, 1. The Centrosymmetric Crystal, </title>
+	<journal> ACA Monograph </journal>
+	<volume> No. 3. </volume>
+	<location> Wilmington: </location>
+	<publisher> Polycrystal Book Service. </publisher>
+</entry>
+<entry>
+	<editor> Richter (Eds.), </editor>
+	<title> Topics in Case-Based Reasoning. </title>
+	<location> Berlin: </location>
+	<publisher> Springer-Verlag, </publisher>
+	<pages> pp. 167-181. </pages>
+</entry>
+<entry>
+	<institution> Sun Microsystems. </institution>
+	<title> Java (tm): Programming for the Internet. </title>
+	<location> http://java.sun.com. </location>
+</entry>
+<entry>
+	<author> W. Landi and B. G. Ryder. </author>
+	<title> Aliasing with and without pointers: A problem taxonomy. </title>
+	<institution> Center for Computer Aids for Industrial Productivity </institution>
+	<tech> Technical Report CAIP-TR-125, </tech>
+	<institution> Rutgers University, </institution>
+	<date> September 1990. </date>
+</entry>
+<entry>
+	<author> D. Georgakopoulos, M. Rusinkiewicz, and A. Sheth. </author>
+	<title> Using tickets to enforce the serializability of multidatabase transactions. </title>
+	<journal> IEEE Trans. on Knowledge and Data Eng., </journal>
+	<volume> 6(1) </volume>
+	<pages> 166, </pages>
+	<date> February 1994. </date>
+</entry>
+<entry>
+	<author> A. P. Witkin. </author>
+	<title> Scale-space filtering. </title>
+	<booktitle> In Proc. Intl. Joint Conf. Art. Intell., </booktitle>
+	<pages> pages 1019-1023, </pages>
+	<date> 1983. </date>
+</entry>
+<entry>
+	<author> Cau, A. and Zedan, H., </author>
+	<title> &quot;Refining Interval Temporal Logic specifications&quot;, </title>
+	<tech> Draft Paper, </tech>
+	<date> November 1996. </date>
+</entry>
+<entry>
+	<author> Weiss, S., &amp; Indurkhya, N. </author>
+	<date> (1993a). </date>
+	<title> Optimized Rule Induction. </title>
+	<journal> IEEE Expert, </journal>
+	<volume> 8 (6), </volume>
+	<pages> 61-69. </pages>
+</entry>
+<entry>
+	<author> Hirschberg, J. </author>
+	<date> (1990). </date>
+	<title> Accent and discourse context: Assigning pitch accent in synthetic speech. </title>
+	<booktitle> In Proceedings of the Eighth National Conference on Artificial Intelligence (AAAI). </booktitle>
+</entry>
+<entry>
+	<author> Lisa F. Rau. </author>
+	<title> Extracting company names from text. </title>
+	<booktitle> In Proceedings of the Sixth IEEE Conference on Artificial Intelligence Applications, </booktitle>
+	<date> 1991. </date>
+</entry>
+<entry>
+	<author> Bengio, Y., &amp; Frasconi, P. </author>
+	<date> (1994). </date>
+	<title> Credit assignment through time: Alternatives to backpropagation. </title>
+	<editor> In Cowan, J. D., Tesauro, G., &amp; Alspector, J. (Eds.), </editor>
+	<booktitle> Advances in Neural Information Processing Systems 6.  </booktitle>
+	<publisher> Morgan Kaufmann. </publisher>
+</entry>
+<entry>
+	<author> M. Gupta and P. Banerjee. </author>
+	<title> Automatic data partitioning on distributed memory multiprocessors. </title>
+	<booktitle> In Proceedings of the 6th Distributed Memory Computing Conference, </booktitle>
+	<location> Portland, OR, </location>
+	<date> April 1991. </date>
+</entry>
+<entry>
+	<author> C. Amza, A. L. Cox, S. Dwarkadas, P. Keleher, H. Lu, R. Rajamony, W. Yu, and W. Zwaenepoel. </author>
+	<title> Tread-Marks: Shared memory computing on networks of workstations. </title>
+	<journal> IEEE Computer, </journal>
+	<volume> 29(2), </volume>
+	<pages> 18-28, </pages>
+	<date> February 1996. </date>
+</entry>
+<entry>
+	<author> McCarthy, J. </author>
+	<date> (1958). </date>
+	<title> Programs with common sense. </title>
+	<booktitle> In Proceedings of the Symposium on the Mechanization of Thought Processes, </booktitle>
+	<volume> Vol. 1, </volume>
+	<pages> pp. 77-84. </pages>
+	<institution> National Physical Laboratory. </institution>
+	<note> Reprinted in </note>
+	<editor> Minsky`s (ed.) </editor>
+	<booktitle> Semantic Information Processing, </booktitle>
+	<publisher> MIT Press </publisher>
+	<date> (1968), </date>
+	<pages> 403-409. </pages>
+	<note> Also in </note>
+	<author> R. Brachman and H. Levesque, </author>
+	<booktitle> Readings in Knowledge Representation, </booktitle>
+	<date> 1985. </date>
+</entry>
+<entry>
+	<author> A. Gupta, I. Mumick, and V. Subrahmanian. </author>
+	<title> Maintaining views incrementally. </title>
+	<booktitle> In Preceedings of the 1993 ACM SIGMOD International Conference on Management of Data, </booktitle>
+	<pages> pages 157-166, </pages>
+	<location> Washington, D. C., </location>
+	<date> May 1993. </date>
+</entry>
+<entry>
+	<author> Tambe, M. </author>
+	<date> (1996). </date>
+	<title> Tracking dynamic team activity. </title>
+	<booktitle> In Proceedings of the National Conference on Artificial Intelligence (AAAI). </booktitle>
+</entry>
+<entry>
+	<author> Card, S. K., Robertson, G. G., Mackinlay, J. D., </author>
+	<title> The Information Visualizer, an Information Workspace, </title>
+	<booktitle> Proceedings of Human Factors in Computing Systems (CHI91), 181188, ACM, </booktitle>
+	<location> New York, </location>
+	<date> 1991. </date>
+</entry>
+<entry>
+	<author> Danvy, O. and A. Filinski. </author>
+	<title> Representing control: A study of the CPS transformation. </title>
+	<tech> Tech. Rpt. CIS-91-2. </tech>
+	<institution> Kansas State University, </institution>
+	<date> 1991. </date>
+</entry>
+<entry>
+	<author> Ventura, Dan, </author>
+	<date> (1995). </date>
+	<title> On Discretization as a Preprocessing Step for Supervised Learning Models, </title>
+	<tech> Masters Thesis, </tech>
+	<institution> Department of Computer Science, Brigham Young University. </institution>
+</entry>
+<entry>
+	<author> J. Demmel, I. Dhillon, and H. Ren. </author>
+	<title> On the correctness of parallel bisection in floating point. </title>
+	<journal> ETNA, </journal>
+	<volume> 3 </volume>
+	<pages> 116-149, </pages>
+	<date> 1995. </date>
+	<note> (See also LAPACK Working Note No.70). </note>
+</entry>
+<entry>
+	<author> Jennings, N. </author>
+	<date> (1994). </date>
+	<title> Commitments and conventions: the foundation of coordination in multi-agent systems. </title>
+	<journal> The Knowledge Engineering Review, </journal>
+	<volume> 8. </volume>
+</entry>
+<entry>
+	<author> Jeffrey Kuskin, David Ofelt, Mark Heinrich, John Heinlein, Richard Simoni, Kourosh Gharachorloo, John Chapin, David Nakahira, Joel Baxter, Mark Horowitz, Anoop Gupta, Mendel Rosenbaum, and John Hennessy. </author>
+	<title> The Stanford FLASH multiprocessor. </title>
+	<booktitle> In Proceedings of the 21st Annual International Conference on Computer Architecture, </booktitle>
+	<pages> pages 302-313, </pages>
+	<date> April 1994. </date>
+</entry>
+<entry>
+	<author> Muggleton, S., &amp; De Raedt, L. </author>
+	<date> (1994). </date>
+	<title> Inductive logic programming: Theory and methods. </title>
+	<journal> Journal of Logic Programming, </journal>
+	<volume> 19, </volume>
+	<pages> 629-679. </pages>
+</entry>
+</body>
+</xml>
